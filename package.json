@@ -4,7 +4,10 @@
   "description": "Recursion practice from The Odin Project: Fibonacci (iterative & recursive) and merge sort.",
   "main": "src/fibonacci/fibonacciSequence.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "fib": "node src/fibonacci/fibonacciSequence.js",
+    "merge": "node src/merge-sort/mergeSort.js"
   },
   "repository": {
     "type": "git",
