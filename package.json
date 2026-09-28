@@ -1,21 +1,26 @@
 {
-  "name": "project-testing-practice-the-odin-project",
+  "name": "project-recursion-the-odin-project",
   "version": "1.0.0",
-  "description": "",
-  "main": "src",
+  "description": "Recursion practice from The Odin Project: Fibonacci (iterative & recursive) and merge sort.",
+  "main": "src/fibonacci/fibonacciSequence.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/w3nc/Project-Testing-Practice-The-Odin-Project.git"
+    "url": "git+https://github.com/w3nc/Project-Recursion-The-Odin-Project.git"
   },
-  "keywords": [],
+  "keywords": [
+    "recursion",
+    "fibonacci",
+    "merge-sort",
+    "the-odin-project"
+  ],
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/w3nc/Project-Testing-Practice-The-Odin-Project/issues"
+    "url": "https://github.com/w3nc/Project-Recursion-The-Odin-Project/issues"
   },
-  "homepage": "https://github.com/w3nc/Project-Testing-Practice-The-Odin-Project#readme",
+  "homepage": "https://github.com/w3nc/Project-Recursion-The-Odin-Project#readme",
   "devDependencies": {
     "@babel/core": "^8.0.6",
     "@babel/preset-env": "^8.0.6",
